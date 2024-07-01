@@ -1,6 +1,6 @@
 String Encryptor
 ===
-This repository contains a C program that performs a simple encryption on input strings. The encryption process involves converting the ASCII value of the first character of each word to its numerical form and swapping the second and last characters of each word if the word has more than one character.
+This repository contains a C++ program that performs a simple encryption on input strings. The encryption process involves converting the ASCII value of the first character of each word to its numerical form and swapping the second and last characters of each word if the word has more than one character.
 
 Features
 ---
